@@ -1,0 +1,1 @@
+console.log('Admin panel simulated, no backend connected');
