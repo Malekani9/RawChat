@@ -1,0 +1,1 @@
+console.log('Signup UI simulated, no backend connected');
